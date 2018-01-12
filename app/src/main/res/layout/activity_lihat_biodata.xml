@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_lihat_biodata"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="saddamalmahali.id.biodata.LihatBiodataActivity">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/TextView01"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/nomor"
+                android:padding="3dip"/>
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textView"
+                android:paddingStart="20dip"
+                android:paddingEnd="20dip"
+                android:paddingLeft="20dip"
+                android:paddingRight="10dip"/>
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/TextView05"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/alamat"
+                android:padding="3dip"/>
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textView"
+                android:paddingStart="20dip"
+                android:paddingEnd="20dip"
+                android:paddingLeft="20dip"
+                android:paddingRight="10dip"/>
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/TextView02"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/nama"
+                android:padding="3dip"/>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textView"
+                android:paddingStart="20dip"
+                android:paddingEnd="20dip"
+                android:paddingLeft="20dip"
+                android:paddingRight="10dip"/>
+
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/TextView03"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/jenis_kelamin"
+                android:padding="3dip"/>
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textView"
+                android:paddingStart="20dip"
+                android:paddingEnd="20dip"
+                android:paddingLeft="20dip"
+                android:paddingRight="10dip"/>
+
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:id="@+id/TextView04"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/tanggal_lahir"
+                android:padding="3dip"/>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/textView"
+                android:paddingStart="20dip"
+                android:paddingEnd="20dip"
+                android:paddingLeft="20dip"
+                android:paddingRight="10dip"/>
+        </TableRow>
+    </TableLayout>
+
+    <Button
+        android:id="@+id/button1"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="15dp"
+        android:text="@string/btn_kembali" />
+</RelativeLayout>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Aplikasi Biodata</string>
+    <string name="action_settings">Tentang Aplikasi</string>
+    <string name="appbar_scrolling_view_behavior">Behavior</string>
+
+    <string name="nomor">Nomor</string>
+    <string name="nama">Nama</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="alamat">Alamat</string>
+
+    <string name="textView">TextView</string>
+    <string name="btn_kembali">Kembali</string>
+
+    <string name="txt_tentang">Tentang Aplikasi</string>
+    <string name="deskripsi">Aplikasi ini dibuat untuk memenuhi Ujian Akhir Smester</string>
+    <string name="deskripsi2">pada mata kuliah Pemrograman Bergerak</string>
+    <string name="deskripsi3">di Sekolah Tinggi Teknologi Garut</string>
+
+    <string name="tim_penyusun">Anggota Kelompok :</string>
+    <string name="saddam">Saddam Almahali         </string>
+    <string name="saddamnpm">(1606114)</string>
+    <string name="rizky">Rizki Slamet Priadi</string>
+    <string name="rizkynpm">(1406113)</string>
+    <string name="ihsan">Ichsan silahuddin</string>
+    <string name="ihsannpm">(1106056)</string>
+
+</resources>
