@@ -1,5 +1,8 @@
-###################
-BUMDES
-###################
+################
+Aplikasi Biodata
+################
 
-Aplikasi ini merupakan pengerjaan aplikasi untuk memenuhi tugas besar mata kuliah Pemrograman Bergerak di Sekolah Tinggi Teknologi Garut
+## Tentang Aplikasi ini
+
+Aplikasi ini dibuat dalam memenuhi salah satu tugas mata kuliah Pemrograman Bergerak di Sekolah Tinggi Teknologi Garut
+
