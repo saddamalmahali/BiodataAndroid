@@ -8,5 +8,5 @@ Aplikasi ini dibuat dalam memenuhi salah satu tugas mata kuliah Pemrograman Berg
 
 ## Screenshot
 ### Halaman Depan
-(./halaman_depan.PNG)
+![](./static/car.gif)
 
