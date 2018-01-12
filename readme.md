@@ -8,5 +8,5 @@ Aplikasi ini dibuat dalam memenuhi salah satu tugas mata kuliah Pemrograman Berg
 
 ## Screenshot
 ### Halaman Depan
-![](./static/car.gif)
+![](https://github.com/saddamalmahali/BiodataAndroid/blob/master/halaman_depan.PNG)
 
