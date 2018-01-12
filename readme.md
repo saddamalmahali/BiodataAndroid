@@ -1,6 +1,4 @@
-################
-Aplikasi Biodata
-################
+#Aplikasi Biodata
 
 ## Tentang Aplikasi ini
 
