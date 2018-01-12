@@ -26,3 +26,9 @@ Form Tambah berfungsi untuk menginputkan data kedalam database, atau bisa juga d
 Form update berfungsi untuk menginputkan data yang telah tersedia didalam database yang akan dirubah
 
 ![](https://github.com/saddamalmahali/BiodataAndroid/blob/master/form_update.PNG)
+
+
+## Tim Pengembang
+-   Saddam Almahali     (1606114)
+-   Rizki Slamet Priadi (1406113)
+-   Ichsan silahuddin   (1106056)
